@@ -1,0 +1,2 @@
+# AimAtCoin
+Auto Coin Trade
