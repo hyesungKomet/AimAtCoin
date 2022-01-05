@@ -3,9 +3,9 @@ import pyupbit
 import datetime
 import requests
 
-access = "XKLoQzWIg0Mm2QeEJp2UOMkUVoKg2DCzf2cCVaIZ"
-secret = "NV33OXvWHlzhbVxTn0CBQ2D5NzxM62UFXPP1MaBY"
-myToken = "xoxb-2902644014198-2902659698966-nFCogcBo2B5sxABZ68trnDdk"
+access = "your key"
+secret = "your key"
+myToken = "your slack key"
 coin = "KRW-BTC"
 
 
